@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'Vesper Light Large Oblique';
+    src: url('Vesper-LightLargeOblique.eot');
+    src: local('Vesper Light Large Oblique'), local('Vesper-LightLargeOblique'),
+        url('Vesper-LightLargeOblique.eot?#iefix') format('embedded-opentype'),
+        url('Vesper-LightLargeOblique.woff2') format('woff2'),
+        url('Vesper-LightLargeOblique.woff') format('woff'),
+        url('Vesper-LightLargeOblique.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vesper Light Ex Large Oblique';
+    src: url('Vesper-LightExtralargeOblique.eot');
+    src: local('Vesper Light Extralarge Oblique'), local('Vesper-LightExtralargeOblique'),
+        url('Vesper-LightExtralargeOblique.eot?#iefix') format('embedded-opentype'),
+        url('Vesper-LightExtralargeOblique.woff2') format('woff2'),
+        url('Vesper-LightExtralargeOblique.woff') format('woff'),
+        url('Vesper-LightExtralargeOblique.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vesper Bold Large Oblique';
+    src: url('Vesper-BoldLargeOblique.eot');
+    src: local('Vesper Bold Large Oblique'), local('Vesper-BoldLargeOblique'),
+        url('Vesper-BoldLargeOblique.eot?#iefix') format('embedded-opentype'),
+        url('Vesper-BoldLargeOblique.woff2') format('woff2'),
+        url('Vesper-BoldLargeOblique.woff') format('woff'),
+        url('Vesper-BoldLargeOblique.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vesper Bold Large';
+    src: url('Vesper-BoldLarge.eot');
+    src: local('Vesper Bold Large'), local('Vesper-BoldLarge'),
+        url('Vesper-BoldLarge.eot?#iefix') format('embedded-opentype'),
+        url('Vesper-BoldLarge.woff2') format('woff2'),
+        url('Vesper-BoldLarge.woff') format('woff'),
+        url('Vesper-BoldLarge.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vesper Bold Medium Oblique';
+    src: url('Vesper-BoldMediumOblique.eot');
+    src: local('Vesper Bold Medium Oblique'), local('Vesper-BoldMediumOblique'),
+        url('Vesper-BoldMediumOblique.eot?#iefix') format('embedded-opentype'),
+        url('Vesper-BoldMediumOblique.woff2') format('woff2'),
+        url('Vesper-BoldMediumOblique.woff') format('woff'),
+        url('Vesper-BoldMediumOblique.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vesper Bold Extra Large Oblique';
+    src: url('Vesper-BoldExtralargeOblique.eot');
+    src: local('Vesper Bold Extralarge Oblique'), local('Vesper-BoldExtralargeOblique'),
+        url('Vesper-BoldExtralargeOblique.eot?#iefix') format('embedded-opentype'),
+        url('Vesper-BoldExtralargeOblique.woff2') format('woff2'),
+        url('Vesper-BoldExtralargeOblique.woff') format('woff'),
+        url('Vesper-BoldExtralargeOblique.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vesper Light';
+    src: url('Vesper-LightMedium.eot');
+    src: local('Vesper Light Medium'), local('Vesper-LightMedium'),
+        url('Vesper-LightMedium.eot?#iefix') format('embedded-opentype'),
+        url('Vesper-LightMedium.woff2') format('woff2'),
+        url('Vesper-LightMedium.woff') format('woff'),
+        url('Vesper-LightMedium.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vesper Bold Extra Large';
+    src: url('Vesper-BoldExtralarge.eot');
+    src: local('Vesper Bold Extralarge'), local('Vesper-BoldExtralarge'),
+        url('Vesper-BoldExtralarge.eot?#iefix') format('embedded-opentype'),
+        url('Vesper-BoldExtralarge.woff2') format('woff2'),
+        url('Vesper-BoldExtralarge.woff') format('woff'),
+        url('Vesper-BoldExtralarge.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vesper Bold';
+    src: url('Vesper-BoldMedium.eot');
+    src: local('Vesper Bold Medium'), local('Vesper-BoldMedium'),
+        url('Vesper-BoldMedium.eot?#iefix') format('embedded-opentype'),
+        url('Vesper-BoldMedium.woff2') format('woff2'),
+        url('Vesper-BoldMedium.woff') format('woff'),
+        url('Vesper-BoldMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vesper Light Large';
+    src: url('Vesper-LightLarge.eot');
+    src: local('Vesper Light Large'), local('Vesper-LightLarge'),
+        url('Vesper-LightLarge.eot?#iefix') format('embedded-opentype'),
+        url('Vesper-LightLarge.woff2') format('woff2'),
+        url('Vesper-LightLarge.woff') format('woff'),
+        url('Vesper-LightLarge.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vesper Light Extra Large';
+    src: url('Vesper-LightExtralarge.eot');
+    src: local('Vesper Light Extralarge'), local('Vesper-LightExtralarge'),
+        url('Vesper-LightExtralarge.eot?#iefix') format('embedded-opentype'),
+        url('Vesper-LightExtralarge.woff2') format('woff2'),
+        url('Vesper-LightExtralarge.woff') format('woff'),
+        url('Vesper-LightExtralarge.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vesper Light Medium Oblique';
+    src: url('Vesper-LightMediumOblique.eot');
+    src: local('Vesper Light Medium Oblique'), local('Vesper-LightMediumOblique'),
+        url('Vesper-LightMediumOblique.eot?#iefix') format('embedded-opentype'),
+        url('Vesper-LightMediumOblique.woff2') format('woff2'),
+        url('Vesper-LightMediumOblique.woff') format('woff'),
+        url('Vesper-LightMediumOblique.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
