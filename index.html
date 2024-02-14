@@ -388,20 +388,6 @@ Utilised the Adobe creative suite and statistical software for data visualizatio
 			
 		</div>
 		<!-- twelve columns end  width: 734px;height: 950px; --> 
-        <h1>portfolio</h1>
-        <div class="PDFBOX" style="margin-left: auto; margin-right: auto;">
-        <div id="adobe-dc-view" style="width: 100%;"></div>
-            <script src="https://acrobatservices.adobe.com/view-sdk/viewer.js"></script>
-            <script type="text/javascript">
-                document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-                    var adobeDCView = new AdobeDC.View({clientId: "d90d389f65114f9ab1954624b2b01462", divId: "adobe-dc-view"});
-                    adobeDCView.previewFile({
-                        content:{location: {url: "/images/pdf/PortfolioOR.pdf"}},
-                        metaData:{fileName: "Portfolio.pdf"}
-                    }, {embedMode: "SIZED_CONTAINER"});
-                });
-            </script>
-        </div>
 		
 <!-- Modal Popup ========================================== -->
 		
@@ -514,7 +500,20 @@ Utilised the Adobe creative suite and statistical software for data visualizatio
 		<!-- modal-01 End --> 
 		
 	</div>
-	<!-- row End --> 
+	<!-- row End -->
+	<div class="PDFBOX" style="margin-left: auto; margin-right: auto;">
+		<div id="adobe-dc-view" style="width: 100%;"></div>
+			<script src="https://acrobatservices.adobe.com/view-sdk/viewer.js"></script>
+			<script type="text/javascript">
+				document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+					var adobeDCView = new AdobeDC.View({clientId: "d90d389f65114f9ab1954624b2b01462", divId: "adobe-dc-view"});
+					adobeDCView.previewFile({
+						content:{location: {url: "/images/pdf/PortfolioOR.pdf"}},
+						metaData:{fileName: "Portfolio.pdf"}
+					}, {embedMode: "SIZED_CONTAINER"});
+				});
+			</script>
+	</div> 
 	
 </section>
 <!-- Portfolio Section End--> 
